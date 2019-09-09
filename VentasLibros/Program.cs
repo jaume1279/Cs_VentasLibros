@@ -6,7 +6,12 @@ using System.Windows.Forms;
 
 namespace VentasLibros
 {  /* Comentarios 56_1er commit*/
-    /* Comentarios 56_2on commit*/
+   /* Comentarios 56_2on commit*/
+
+    /* Comentarios 8569*/
+    /* Pasamos a branch "panic" y arreglamos problema grave */
+    /* segundo commit en branch "panic" */
+    /* 3er commit ya en "master" */
     static class Program
     {
         /// <summary>
