@@ -8,6 +8,7 @@ namespace VentasLibros
 {  /* Comentarios 8569*/
     /* Pasamos a branch "panic" y arreglamos problema grave */
     /* segundo commit en branch "panic" */
+    /* 3er commit ya en "master" */
     static class Program
     {
         /// <summary>
