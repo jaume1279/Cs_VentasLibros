@@ -1,5 +1,5 @@
 ﻿namespace VentasLibros
-{
+{  /* Comentarios */
     partial class frmVentasLibros
     {
         /// <summary>
