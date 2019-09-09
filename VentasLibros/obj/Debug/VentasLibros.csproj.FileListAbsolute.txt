@@ -8,3 +8,13 @@ D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.csproj.GenerateRe
 D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.csproj.CoreCompileInputs.cache
 D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.exe
 D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.pdb
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\bin\Debug\VentasLibros.exe.config
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\bin\Debug\VentasLibros.exe
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\bin\Debug\VentasLibros.pdb
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\obj\Debug\VentasLibros.csprojAssemblyReference.cache
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\obj\Debug\VentasLibros.frmVentasLibros.resources
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\obj\Debug\VentasLibros.Properties.Resources.resources
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\obj\Debug\VentasLibros.csproj.GenerateResource.cache
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\obj\Debug\VentasLibros.csproj.CoreCompileInputs.cache
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\obj\Debug\VentasLibros.exe
+D:\GitRepository\jaume1279\Cs_VentasLibros\VentasLibros\obj\Debug\VentasLibros.pdb
