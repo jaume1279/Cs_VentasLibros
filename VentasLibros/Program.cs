@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace VentasLibros
 {  /* Comentarios 56_1er commit*/
+    /* Comentarios 56_2on commit*/
     static class Program
     {
         /// <summary>
