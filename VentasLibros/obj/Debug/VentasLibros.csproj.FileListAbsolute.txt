@@ -1,0 +1,10 @@
+D:\C#Projects\VentasLibros\VentasLibros\bin\Debug\VentasLibros.exe.config
+D:\C#Projects\VentasLibros\VentasLibros\bin\Debug\VentasLibros.exe
+D:\C#Projects\VentasLibros\VentasLibros\bin\Debug\VentasLibros.pdb
+D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.csprojAssemblyReference.cache
+D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.frmVentasLibros.resources
+D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.Properties.Resources.resources
+D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.csproj.GenerateResource.cache
+D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.csproj.CoreCompileInputs.cache
+D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.exe
+D:\C#Projects\VentasLibros\VentasLibros\obj\Debug\VentasLibros.pdb
