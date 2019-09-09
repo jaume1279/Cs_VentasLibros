@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace VentasLibros
 {  /* Comentarios 8569*/
+    /* Pasamos a branch "panic" y arreglamos problema grave */
     static class Program
     {
         /// <summary>
